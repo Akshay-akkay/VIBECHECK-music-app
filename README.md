@@ -1,10 +1,8 @@
-### VIBECHECK
+# VIBECHECK
 
 Music App
 
-## Getting Started
-
-Video Demo - <div>https://youtu.be/oauL-Krvi9I</div>
+## Video Demo - <div>https://youtu.be/oauL-Krvi9I</div>
 
 
 This is an amazing music app containing all functionalities like playlist, favourites, recently played, download music, search and settings.
