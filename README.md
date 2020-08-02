@@ -2,9 +2,9 @@
 
 Music App
 
-![Image of Yaktocat](https://firebasestorage.googleapis.com/v0/b/akkay-chat.appspot.com/o/app-sss%2FScreenshot_2020-08-02-20-53-19-856_com.akkay.vibecheck.jpg?alt=media&token=4433623b-c155-4fbe-b9b9-9c0c6c77a6a0)
-![Image of Yaktocat](https://firebasestorage.googleapis.com/v0/b/akkay-chat.appspot.com/o/app-sss%2FScreenshot_2020-08-02-20-53-34-841_com.akkay.vibecheck.jpg?alt=media&token=421ecbaa-ed4f-4055-a8e6-9ac5652dacfa)
-![Image of Yaktocat](https://firebasestorage.googleapis.com/v0/b/akkay-chat.appspot.com/o/app-sss%2FScreenshot_2020-08-02-20-53-12-019_com.akkay.vibecheck.jpg?alt=media&token=360cd3c3-a79f-4437-a552-835e222ebbaf)
+![Image of Yaktocat](https://firebasestorage.googleapis.com/v0/b/akkay-chat.appspot.com/o/app-sss%2Fsmartmockups_kdda0k91.jpg?alt=media&token=fce11c99-36c4-4941-a166-9d57a0cc992e)
+![Image of Yaktocat](https://firebasestorage.googleapis.com/v0/b/akkay-chat.appspot.com/o/app-sss%2Fsmartmockups_kdda4sxk.jpg?alt=media&token=6ea56763-e7d8-4f5f-b1a1-361f5c2aa704)
+![Image of Yaktocat](https://firebasestorage.googleapis.com/v0/b/akkay-chat.appspot.com/o/app-sss%2Fsmartmockups_kdda7qgy.jpg?alt=media&token=3b31f7a3-e91b-403a-a30d-5b7795ca1f65)
 
 
 ## Video Demo - <div>https://youtu.be/oauL-Krvi9I</div>
