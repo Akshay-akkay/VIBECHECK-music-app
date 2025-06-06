@@ -97,18 +97,16 @@ class _MusicPlayerScreenState extends State<MusicPlayerScreen> {
                     onTap: () {
                       setState(() {
                         _isPlaying = !_isPlaying;
-                        assetsAudioPlayer.play();
+                        assetsAudioPlayer.pause();
                       });
                     },
                     child: Stack(children: [
                       Image.asset('images/Ellipse 5.png'),
                       Positioned(
-                        left: 13,
-                        top: 4,
-                        // bottom: 5,
-                        // right: 5,
+                        left: 7,
+                        top: 3,
                         child: Icon(
-                          Feather.play,
+                          Feather.pause,
                           color: Colors.white,
                           size: 60,
                         ),
@@ -120,18 +118,16 @@ class _MusicPlayerScreenState extends State<MusicPlayerScreen> {
                     onTap: () {
                       setState(() {
                         _isPlaying = !_isPlaying;
-                        assetsAudioPlayer.pause();
+                        assetsAudioPlayer.play();
                       });
                     },
                     child: Stack(children: [
                       Image.asset('images/Ellipse 5.png'),
                       Positioned(
-                        left: 7,
-                        top: 3,
-                        // bottom: 5,
-                        // right: 5,
+                        left: 13,
+                        top: 4,
                         child: Icon(
-                          Feather.pause,
+                          Feather.play,
                           color: Colors.white,
                           size: 60,
                         ),
